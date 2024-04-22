@@ -1,0 +1,97 @@
+body {
+    font-family: sans-serif;
+    background-image:url("https://zakordon.24tv.ua/resources/photos/news/202401/2474099.jpg?v=1705407604000") ;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+}
+
+header {
+    background-color: white;
+    padding: 20px;
+}
+
+header a {
+    color: black;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px;
+}
+
+header img {
+    width: 200px;
+    height: 200px;
+}
+
+.buttons {
+    background-color: rgb(131, 206, 250);
+    border: 3px solid rgb(77, 134, 255);
+    text-align:justify;
+    font-family:cursive;
+    height: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-weight: normal;
+    padding-bottom: 5px;
+    border-bottom: 5px solid cadetblue;
+    font-family:initial;
+    }
+
+h2 {
+    background-color: #2adede;
+    color: blueviolet;
+    font-size: 30px;
+    padding: 10px;
+}
+
+main p {
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+    background-color: azure; 
+    opacity: 0.85;
+    border-radius: 15px;
+   
+}
+
+p img {
+    height: 150px;
+    width: 200px;
+}
+
+footer {
+    background-color: #c8f3ff;
+    padding: 10px;
+}
+
+footer p {
+    background-color: cadetblue;
+    padding: 5px;
+}
+.plan{
+   border: 3px solid cadetblue;
+}
+p{
+    color: black;
+    text-shadow: 1px 1px 1px;
+}
+.image{
+    background-color: azure; 
+    opacity:0.95;
+    text-align:center;
+}
+main img{
+    height:250px ;
+    width:250px ;
+}
+div{
+    display: flex;
+    align-items: center;
+}
